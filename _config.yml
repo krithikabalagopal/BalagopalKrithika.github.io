@@ -1,1 +1,12 @@
+title: My Blog
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to my blog. This is my personal space where I share my thoughts.
+url: "https://Krithika.github.io
 remote_theme: jekyll/Forty
+
+# Build settings
+markdown: kramdown
+theme: Forty
+
+# Permalinks
+permalink: /:categories/:year/:month/:day/:title:output_ext
