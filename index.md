@@ -2,4 +2,4 @@
 layout: home
 title: "Welcome"
 ---
-# Hello, my name is Krithika. I'm an evoltionary biologist investigating...
+# Hello, welcome to my page
